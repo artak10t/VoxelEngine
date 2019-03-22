@@ -1,5 +1,7 @@
 # VoxelGame
 
+![](Voxel.png)
+
 > Minecraft clone in Unity with implemented SSAO and serialization.
 
 ## :hammer: Generation
