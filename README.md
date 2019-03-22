@@ -2,7 +2,7 @@
 
 > Minecraft clone in Unity with implemented SSAO and serialization.
 
-## :video_game: Generation
+## :hammer: Generation
 
 ![](Caves.png)
 
