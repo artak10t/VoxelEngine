@@ -2,7 +2,7 @@
 
 ![](Voxel.png)
 
-> Voxel engine for Unity with implemented SSAO and serialization.
+> Voxel engine for Unity with implemented SSAO and serialization. Inspired by minecraft.
 
 ## :hammer: Generation
 
