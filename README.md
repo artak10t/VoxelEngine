@@ -2,7 +2,7 @@
 
 ![](Voxel.png)
 
-> Minecraft clone in Unity with implemented SSAO and serialization.
+> Voxel engine for Unity with implemented SSAO and serialization.
 
 ## :hammer: Generation
 
